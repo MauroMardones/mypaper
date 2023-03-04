@@ -20,6 +20,7 @@ corresponding_author:
 # For footer text
 
 
+git remote set-url origin  https://github.com/MauroMardones/mypaper.git 
 
 
 
