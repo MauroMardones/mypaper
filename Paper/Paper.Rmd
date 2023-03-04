@@ -19,11 +19,6 @@ corresponding_author:
 
 # For footer text
 
-
-git remote set-url origin  https://github.com/MauroMardones/mypaper.git 
-
-
-
 lead_author_surname: Anonymous two
 
 ## Remove this if not required    
