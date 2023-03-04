@@ -18,7 +18,7 @@ corresponding_author:
   text: "To whom correspondence should be addressed. E-mail: bob@email.com"
 
 # For footer text
-lead_author_surname: Anonymous
+lead_author_surname: Anonymous two
 
 ## Remove this if not required    
 equal_authors:
