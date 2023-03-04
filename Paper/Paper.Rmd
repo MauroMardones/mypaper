@@ -3,15 +3,15 @@ title: Template for preparing your research report submission to PNAS using RMar
 
 # Use letters for affiliations, numbers to show equal authorship (if applicable) and to indicate the corresponding author
 author:
-  - name: Alice Anonymous
+  - name: Mauricio Mardones
     affiliation: a,1,2
-  - name: Bob Security
+  - name: María José Zúñiga
     affiliation: a,b
 address:
   - code: a
-    address: Some Institute of Technology, Department, Street, City, State, Zip
+    address: Instituto de Fomento Pesquero (IFOP), Chile
   - code: b
-    address: Another University Department, Street, City, State, Zip
+    address: PhD, Antarctic and SubAntarctic Science, Universidad de Magallanes, Chile
 
 corresponding_author:
   code: 2
