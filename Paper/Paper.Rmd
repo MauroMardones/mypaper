@@ -65,6 +65,7 @@ output: rticles::pnas_article
 ---
 
 
+
 This PNAS journal template is provided to help you write your work in the
 correct journal format. Instructions for use are provided below.
 
